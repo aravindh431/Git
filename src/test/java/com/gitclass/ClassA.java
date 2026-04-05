@@ -16,5 +16,17 @@ public class ClassA {
 		System.out.println("C");
 
 	}
+	
+	private void task1() {
+		System.out.println("completed");
+	}
+
+	private void task2() {
+		System.out.println("not completed");
+	}
+
+	private void task3() {
+		System.out.println("to do");
+	}
 
 }
