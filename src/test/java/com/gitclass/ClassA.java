@@ -28,5 +28,17 @@ public class ClassA {
 	private void bug3() {
 		System.out.println("3");
 	}
+	
+	private void task1() {
+		System.out.println("completed");
+	}
+
+	private void task2() {
+		System.out.println("not completed");
+	}
+
+	private void task3() {
+		System.out.println("to do");
+	}
 
 }
