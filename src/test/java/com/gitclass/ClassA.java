@@ -17,6 +17,18 @@ public class ClassA {
 
 	}
 	
+	private void bug1() {
+		System.out.println("1");
+	}
+	
+	private void bug2() {
+		System.out.println("2");
+	}
+	
+	private void bug3() {
+		System.out.println("3");
+	}
+	
 	private void task1() {
 		System.out.println("completed");
 	}
